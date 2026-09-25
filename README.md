@@ -1,104 +1,134 @@
-# <p align="center">Hi, I'm Priyanshu Pushkar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></p>
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9,17,24&height=220&section=header&text=Priyanshu%20Pushkar&fontSize=52&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20Generative%20AI%20%26%20ML%20Engineer&descFontSize=20&descAlignY=62&fontColor=ffffff&descAlign=50" width="100%" />
-</p>
+  <!-- 3D Holographic Hero Animation -->
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="3D Developer Workstation" />
 
-<p align="center">
+  <!-- Animated Neon Typing Header -->
+  <h1>
+    <a href="https://github.com/shanker09">
+      <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=30&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=750&lines=Priyanshu+Pushkar;Full+Stack+Developer+%F0%9F%8C%90;Generative+AI+%26+ML+Engineer+%F0%9F%A4%96;Autonomous+AI+Agents+%26+RAG+Systems+%E2%9A%A1;Architecting+Scalable+Microservices+%F0%9F%9A%80" alt="Typing SVG" />
+    </a>
+  </h1>
+
+  <p>
+    <b>🚀 Full Stack Craftsman &bull; 🧠 Generative AI Architect &bull; ⚡ High-Performance Systems</b>
+  </p>
+
+  <!-- 3D Glowing Views Counter -->
   <a href="https://github.com/shanker09">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%26+Generative+AI+Engineer;Building+Autonomous+AI+Agents+%26+RAG+Pipelines;Architecting+Scalable+Next.js+%26+FastAPI+Systems;Turning+Complex+Problems+into+High-Performance+Code" alt="Typing SVG" />
+    <img src="https://komarev.com/ghpvc/?username=shanker09&label=PROFILE%20VIEWS&color=00F5FF&style=for-the-badge" alt="Profile Views" />
   </a>
-</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shanker09&label=Profile%20Views&color=38bdf8&style=for-the-badge" alt="Profile Views" />
-</p>
+</div>
 
----
+<!-- 3D Animated Neon Cyber Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212257460-70716cbf-ee04-4674-88fe-271d5b3ff75a.gif" width="100%" />
 
-### 🚀 Executive Summary
+<br/>
 
-```yaml
-Name: Priyanshu Pushkar
-GitHub: @shanker09
-Role: Full Stack Developer & Generative AI Engineer
-Focus Areas: Production LLMs, Autonomous AI Agents, Scalable Full-Stack Architecture
-Philosophy: "Ship robust systems, optimize relentlessly, automate intelligently."
-```
+### 🔮 Executive Overview
 
-- 🧠 **GenAI & AI Engineering:** Architecting production-grade **LLM applications, RAG (Retrieval-Augmented Generation)**, Vector Databases, and **Autonomous Agentic Workflows**.
-- 🌐 **Full Stack Craftsmanship:** Designing resilient backends with **FastAPI / Node.js** paired with high-performance frontends using **Next.js & React**.
-- ⚡ **Performance & Scalability:** Building distributed microservices, Redis caching layers, and containerized Docker environments.
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <br/>
+      <ul>
+        <li>🤖 <b>GenAI & Deep Learning:</b> Engineering production-grade <b>RAG architectures, Autonomous AI Agents</b>, LLM Fine-Tuning, and high-dimension <b>Vector Search</b> (Pinecone / Chroma).</li>
+        <li>🌐 <b>Full Stack Architecture:</b> Crafting responsive, interactive frontends with <b>Next.js & React</b> connected to ultra-fast <b>FastAPI / Node.js</b> microservices.</li>
+        <li>⚡ <b>Cloud & Scalability:</b> Containerized deployments with <b>Docker</b>, caching with <b>Redis</b>, distributed databases (PostgreSQL, MongoDB), and CI/CD pipelines.</li>
+        <li>💎 <b>Philosophy:</b> <i>"Engineered for performance, automated with intelligence."</i></li>
+      </ul>
+      <br/>
+      <p>
+        <a href="https://linkedin.com/in/" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+        </a>
+        &nbsp;
+        <a href="mailto:priyanshupushkar263@gmail.com">
+          <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+        </a>
+        &nbsp;
+        <a href="https://github.com/shanker09">
+          <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <!-- 3D AI Neural Grid Animation -->
+      <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-beac-17ec6d02958e.gif" width="100%" alt="3D Neural Matrix" />
+    </td>
+  </tr>
+</table>
 
----
+<!-- 3D Animated Neon Cyber Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212257460-70716cbf-ee04-4674-88fe-271d5b3ff75a.gif" width="100%" />
 
-### 🛠️ Technical Arsenal
+### 🏆 3D GitHub Achievements & Badges
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shanker09&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="3D Trophies" />
+</div>
+
+<br/>
+
+### 🛠️ Technical Arsenal & Skills Matrix
 
 #### 🤖 Generative AI & Machine Learning
 <p align="left">
-  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI_LLMs-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain_Agents-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge&logo=codeforces&logoColor=white" />
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vector_DB_(Pinecone/Chroma)-10B981?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vector_DB_(Chroma/Pinecone)-10B981?style=for-the-badge&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/RAG_Pipelines-6366F1?style=for-the-badge&logo=probot&logoColor=white" />
 </p>
 
-#### 💻 Frontend Engineering
+#### 💻 Frontend Development
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,redux,html,css&perline=8" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,redux,html,css&perline=8&theme=dark" alt="Frontend" />
   </a>
 </p>
 
 #### ⚙️ Backend & Systems Architecture
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,express,django,graphql&perline=8" />
+    <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,express,django,graphql&perline=8&theme=dark" alt="Backend" />
   </a>
 </p>
 
 #### 🗄️ Databases, Cloud & DevOps
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,aws,gcp,git,github,linux,postman&perline=10" />
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,aws,gcp,git,github,linux,postman&perline=10&theme=dark" alt="DevOps" />
   </a>
 </p>
 
----
+<!-- 3D Animated Neon Cyber Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212257460-70716cbf-ee04-4674-88fe-271d5b3ff75a.gif" width="100%" />
 
-### 📊 GitHub Telemetry & Activity
+### 📊 Real-Time GitHub Telemetry
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shanker09&show_icons=true&theme=radical&hide_border=true&count_private=true&title_color=38bdf8&text_color=ffffff&icon_color=38bdf8&bg_color=0d1117" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shanker09&theme=radical&hide_border=true&stroke=38bdf8&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=38bdf8" width="48%" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shanker09&show_icons=true&theme=radical&hide_border=true&count_private=true&title_color=00F5FF&text_color=ffffff&icon_color=00F5FF&bg_color=0d1117" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shanker09&theme=radical&hide_border=true&stroke=00F5FF&background=0d1117&ring=00F5FF&fire=00F5FF&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00F5FF" width="48%" alt="GitHub Streak" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanker09&layout=compact&theme=radical&hide_border=true&title_color=38bdf8&text_color=ffffff&bg_color=0d1117&langs_count=6" width="48%" alt="Top Languages" />
-</p>
+<br/>
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanker09&layout=compact&theme=radical&hide_border=true&title_color=00F5FF&text_color=ffffff&bg_color=0d1117&langs_count=6" width="48%" alt="Top Languages" />
+</div>
 
-### 🤝 Let's Connect & Collaborate
+<!-- 3D Animated Neon Cyber Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212257460-70716cbf-ee04-4674-88fe-271d5b3ff75a.gif" width="100%" />
 
-<p align="left">
-  <a href="https://linkedin.com/in/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto:priyanshupushkar263@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/shanker09">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  ⚡ <i>"The best way to predict the future is to build and deploy it."</i>
-</p>
+<div align="center">
+  <p>
+    ⚡ <i>"The best way to predict the future is to architect, code, and deploy it."</i>
+  </p>
+  <p>
+    ⭐️ <b>Feel free to star my repositories & drop by anytime!</b>
+  </p>
+</div>
